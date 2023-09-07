@@ -1,8 +1,8 @@
 {
-  "name": "@FrorexStudio/Recconect-petproject/Recconect-UI",
-    "publishConfig": {
-      "registry": "https://npm.pkg.github.com/FrorexStudio"
-    },
+  "name": "@frorexstudio/recconect-ui",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/FrorexStudio"
+  },
   "version": "0.0.1",
   "description": "Recconect design system",
   "scripts": {
